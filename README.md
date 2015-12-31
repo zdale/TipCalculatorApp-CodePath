@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Gives the amount of money to split the bill between a selected amount of people
+- [X] Gives the amount of money to split the bill between a selected amount of people
 
 ## Video Walkthrough 
 
