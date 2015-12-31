@@ -397,8 +397,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Tip Calculator App/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "codepath.Tip-Calculator-App";
+				PRODUCT_BUNDLE_IDENTIFIER = "zachdale.Tip-Calculator-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -408,8 +409,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Tip Calculator App/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "codepath.Tip-Calculator-App";
+				PRODUCT_BUNDLE_IDENTIFIER = "zachdale.Tip-Calculator-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -481,6 +483,7 @@
 				9212A0B61C34DBFA00785783 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9212A0B71C34DBFA00785783 /* Build configuration list for PBXNativeTarget "Tip Calculator AppTests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +492,7 @@
 				9212A0B91C34DBFA00785783 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9212A0BA1C34DBFA00785783 /* Build configuration list for PBXNativeTarget "Tip Calculator AppUITests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +501,7 @@
 				9212A0BC1C34DBFA00785783 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
