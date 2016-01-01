@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+There was only one moderate issue that I had to overcome when creating the app.  My issue was that I have a previous understanding of coding logic, but I did not quite know all of the swift syntax/strategy well enough.   Basically I became too confident in my understanding of Xcode and swift too soon. This lead to me accidentally not pointing the segmented controls to the right outlets or events.  As a result of that, there was a lot of confusing and frustrating errors when I ran the simulator.  Eventually I realized this and found what was wrong and got both segmented controls working correctly.  All was well after that.
 
 ## License
 
